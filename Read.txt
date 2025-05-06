@@ -1,0 +1,12 @@
+Penggunaan program pendeteksian citra hilal dengan Object detection
+
+install python 3.7 atau lebih (rekomen untuk memudahkan environment gunakan miniconda/anaconda)
+install vscode (opsional, untuk melakukan coding)
+
+instal library python (OpenCV,ultralystic)
+
+kenali path atau tempat directory file, model, dan video
+
+run sesuai dengan keinginan ( pengaturan dapat dilihat di script)
+
+untuk real-time detection bisa di sambungkan ke webcam untuk ujicoba atau kamera teropong langsung (video_Cam)
